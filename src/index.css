@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-weight: 400;
+  background-color: #eef1f4;
+  color: #26425f;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  max-width: 98rem;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #26425f;
+}
+
+/* 
+#56677B
+#4099DE
+#1D6DAA:hover
+*/
